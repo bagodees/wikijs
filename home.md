@@ -2,15 +2,13 @@
 title: test
 description: 
 published: true
-date: 2026-03-29T05:21:58.726Z
+date: 2026-03-29T05:22:10.398Z
 tags: 
 editor: markdown
 dateCreated: 2026-03-29T05:03:43.669Z
 ---
 
-# 🖥️ Welcome to the Lab@Home Wiki
-
-
+# 🖥️ Welcome to the Servers@Home Wiki
 
 **Your ultimate guide to self-hosting, homelabs, and taking control of your data!**  
 
@@ -46,11 +44,22 @@ New to self-hosting? Start here:
 ### 🌐 Networking
 [<img src="/cloudflare.png" width="25" style="vertical-align:middle;margin-right:4px"> Cloudflare Tunnels](/CloudflareTunnels)
 [<img src="/netbird.png" width="25" style="vertical-align:middle;margin-right:4px"> NetBird Mesh VPN](/netbird)
+
+
+
+## 🌟 Community Favorites
+
+🔥 **Most Viewed**  
+- [Building a Budget Homelab](https://blog.serversatho.me/sourcing-used-parts/)  
+- [10 Must-Have Docker Containers](/ravencentric)  
+
+🛡️ **Security Essentials**  
+- [Securing Self-Hosted Services](https://blog.serversatho.me/best-vpn-ever/)  
  
 
 ---
 
-## 🏆 About Our Community 
+## 🏆 About Our Community
 
 **Servers@Home** is a collective of self-hosting enthusiasts dedicated to:  
 ✅ Practical, tested guides  
