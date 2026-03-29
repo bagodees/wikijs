@@ -2,15 +2,15 @@
 title: test
 description: 
 published: true
-date: 2026-03-29T05:22:10.398Z
+date: 2026-03-29T22:39:42.559Z
 tags: 
 editor: markdown
 dateCreated: 2026-03-29T05:03:43.669Z
 ---
 
-# 🖥️ Welcome to the Servers@Home Wiki
+# Welcome to the Lab@Home Wiki site!
 
-**Your ultimate guide to self-hosting, homelabs, and taking control of your data!**  
+**In this wiki we will guide you through setting up a NAS wether thats within Proxmox or not we will show you how to do either way. Then we will get into working on datasets Apps and all other things of homelabing. Enjoy your time on the wiki.**  
 
 
 
